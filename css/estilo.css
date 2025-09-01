@@ -1,0 +1,77 @@
+/* Header */
+.header_cor {
+  color: #f89616;
+}
+
+#mainNavbar {
+  transition: transform 0.3s ease, opacity 0.4s ease;
+}
+
+.hidden-navbar {
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.visible-navbar {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Botão de Entrar e icon */
+.entrar-hover span {
+  transition: color 0.3s ease;
+}
+
+.entrar-hover:hover span {
+  color: #f89616;
+}
+
+.icon-hover {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.entrar-hover:hover .icon-hover {
+  transform: scale(1.2);
+  color: #f89616;
+}
+
+/* Estilos para a seção hero-text no main */
+.hero-text {
+  min-height: calc(100vh - 70px); /* Altura total menos o header */
+  margin-top: 70px;
+  background: url('../imagens/img_index1.png') no-repeat center center;
+  background-size: cover;
+}
+
+.bg-transform{
+  background-color: #f89616;
+}
+
+.bi-seta {
+  color: #f89616;
+}
+
+/* Seta */
+.bounce-arrow {
+  display: inline-block;
+  animation: bounce 1.5s infinite;
+  margin-bottom: 20px; /* Sobe a seta */
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+/* Footer */
+.footer_cor {
+  color: #f89616;
+}
+
+
+
+
