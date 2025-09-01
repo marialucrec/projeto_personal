@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* Index */
+.hero-text {
+  min-height: calc(100vh - 70px); /* Altura total menos o header */
+  margin-top: 70px; 
+  background: url('../imagens/img_index1.png') no-repeat center center; /* Imagem de fundo */
+  background-size: cover;
+}
+
+.bg-transform{
+  background-color: var(--primary-color); 
+}
+
+/* Icone da seta */
+.bi-seta {
+  color: var(--primary-color);
+}
+
+.bounce-arrow {
+  display: inline-block;
+  animation: bounce 1.4s infinite;
+  margin-bottom: 5px; /* Sobe a seta */
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+
+

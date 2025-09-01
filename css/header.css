@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Header */
+.header_cor {
+  color: var(--primary-color);
+}
+
+#mainNavbar {
+  transition: transform 0.3s ease, opacity 0.4s ease;
+}
+
+.hidden-navbar {
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.visible-navbar {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Header - botão de entrar e icon */
+.entrar-hover span {
+  transition: color 0.3s ease;
+}
+
+.entrar-hover:hover span {
+  color: var(--primary-color);
+}
+
+.icon-hover {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.entrar-hover:hover .icon-hover {
+  transform: scale(1.1);
+  color: var(--primary-color);
+}
