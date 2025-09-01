@@ -1,3 +1,15 @@
+@charset "UTF-8";
+
+/* Importando a fonte Adineue PRO */
+@import url('https://db.onlinewebfonts.com/c/b82329475307e0380dc1ea23f0c35266?family=adineue+PRO');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'adineue PRO', sans-serif;
+}
+
 /* Header */
 .header_cor {
   color: #f89616;
