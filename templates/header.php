@@ -1,4 +1,4 @@
-<nav id="mainNavbar" class="navbar bg-white fixed-top py-3 visible-navbar">
+<nav id="mainNavbar" class="navbar bg-white fixed-top py-3 shadow visible-navbar">
   <div class="container-fluid d-flex justify-content-between align-items-center">
 
     <!-- Coluna esquerda (vazia ou com menu futuramente) -->

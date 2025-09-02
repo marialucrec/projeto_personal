@@ -1,4 +1,4 @@
-<footer class="bg-white text-dark text-center py-4 mt-auto">
+<footer class="bg-white text-dark text-center py-4 mt-auto shadow-lg">
   <div class="container">
     <p class="mb-2">&copy; 2025 Nome do Site Company. Todos os direitos reservados.</p>
     <div class="d-flex justify-content-center align-items-center">
