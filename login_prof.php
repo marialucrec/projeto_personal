@@ -23,7 +23,7 @@
             <!-- Seção de recursos -->
             <div class="col-md-6 mb-4">
                 <div class="text-center mb-4">
-                    <img src="logo.png" alt="Logo" class="img-fluid " style="max-height: 80px;">
+                    <img src="imagens/logo.png" alt="Logo" class="img-fluid " style="max-height: 80px;">
                     <h2 class="mt-3 fw-bold">Taurus</h2>
                 </div>
                                 
