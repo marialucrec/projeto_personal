@@ -7,8 +7,8 @@
     <!-- Coluna central: imagem + nome -->
     <div class="d-flex align-items-center mx-auto">
       <img src="imagens/logo.png" alt="Logo" style="height: 40px;">
-      <p class="mb-0 fs-3 text-dark fw-bold">
-        Nome do<span class="header_cor"> Site</span>
+      <p class="espacamento-letras mb-0 fs-1 text-dark fw-bold">
+        TAU<span class="header_cor">RUS</span>
       </p>
     </div>
 

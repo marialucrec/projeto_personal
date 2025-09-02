@@ -26,7 +26,7 @@
           <span class="fw-bold fs-4">PRONTO(A) PARA COMEÇAR?</span>
         </div>
         <div class="bg-transform text-white px-2 py-2 shadow mb-1">
-          <span class="fs-5">AGENDE SUA AULA E COMECE SUA TRANSFORMAÇÃO.</span>
+          <span class="fs-4">AGENDE SUA AULA E COMECE SUA TRANSFORMAÇÃO.</span>
         </div>
         <i class="bi-seta bi-chevron-double-down fs-1 bounce-arrow"></i>
       </div>
