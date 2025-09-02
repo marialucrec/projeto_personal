@@ -44,6 +44,8 @@
             </form>
         </section>
     </main>
+
     <?php include 'templates/footer.php'; ?>
+    <script src="js/navbar-scroll.js"></script>
 </body>
 </html>
