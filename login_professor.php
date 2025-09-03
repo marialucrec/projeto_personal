@@ -18,12 +18,12 @@
 <body class="d-flex flex-column min-vh-100">
     <?php include 'templates/header.php'; ?>
 
-    <main class="container espaçamento-main flex-grow-1">                
+    <main class="container espaçamento-main flex-grow-1 mb-5 pb-3">                
         <div class="row">                                                              
             <!-- Seção de recursos -->
             <div class="col-md-6 mt-4">
                 <div class="text-right mb-4 fs-2 fw-bold">
-                     Nome do<span class="header_cor"> Site</span>
+                     TAU<span class="header_cor">RUS</span>
                 </div>
                                 
                 <div class="mb-4">
