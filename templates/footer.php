@@ -1,10 +1,10 @@
 <footer class="bg-white text-dark text-center py-4 mt-auto shadow-lg">
   <div class="container">
-    <p class="mb-2">&copy; 2025 Nome do Site Company. Todos os direitos reservados.</p>
-    <div class="d-flex justify-content-center align-items-center">
-      <img src="imagens/logo.png" alt="Logo" style="height: 40px;">
-      <p class="mb-0 fs-4 fw-bold">
-        Nome do<span class="footer_cor"> Site</span>
+    <p class="mb-2">Copyright © 2024 Taurus Company. Todos os direitos reservados.</p>
+    <div class="d-flex justify-content-center align-items-center gap-0">
+      <img src="imagens/logo.png" alt="Logo" style="height: 50px;">
+      <p class="mb-0 fs-2 fw-bold fst-italic">
+        TAU<span class="footer_cor">RUS</span>
       </p>
     </div>
   </div>

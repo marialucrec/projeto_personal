@@ -1,4 +1,4 @@
-<nav id="mainNavbar" class="navbar bg-white fixed-top py-3 shadow visible-navbar">
+<nav id="mainNavbar" class="navbar bg-white fixed-top py-2 shadow visible-navbar">
   <div class="container-fluid d-flex justify-content-between align-items-center">
 
     <!-- Coluna esquerda (vazia ou com menu futuramente) -->
@@ -12,14 +12,19 @@
       </p>
     </div>
 
-    <!-- Coluna direita: botão ou ícone -->
+    <!-- Coluna direita: botão com dropdown sem seta -->
     <div style="width: 100px;" class="text-end">
-      <a class="nav-link text-dark d-flex align-items-center entrar-hover ms-4" href="#">
-        <span class="fs-5">Entrar</span>
-        <i class="bi bi-person-fill ms-6 fs-5 icon-hover"></i>
-      </a>
+      <div class="dropdown">
+        <a class="nav-link text-dark d-flex align-items-center entrar-hover ms-3" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="fs-5">Entrar</span>
+          <i class="bi bi-person-fill ms-1 fs-5 icon-hover"></i>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-end shadow-sm">
+          <li><a class="dropdown-item" href="login-aluno.php">ENTRAR COMO ALUNO</a></li>
+          <li><a class="dropdown-item" href="login-professor.php">ENTRAR COMO PROFESSOR</a></li>
+        </ul>
+      </div>
     </div>
-
   </div>
 </nav>
 
