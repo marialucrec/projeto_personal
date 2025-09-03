@@ -66,7 +66,7 @@
             <div class="col-md-6 mt-1">
                 <div class="card shadow">
                     <div class="card-body">
-                        <h2 class="card-title text-center">Entrar no Espaço do Aluno</h2>
+                        <h2 class="card-title text-center">Entrar no Espaço do Professor</h2>
                         <p class="text-center">Preencha os campos para prosseguir com seu login</p>
                         <form action="" method="post">
                             <div class="mb-3">
