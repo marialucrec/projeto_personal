@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-/* Header */
-.espacamento-letras {
-  letter-spacing: 0.1em;
-}
-
 .header_cor {
   color: var(--primary-color);
 }

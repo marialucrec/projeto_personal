@@ -18,7 +18,7 @@
 <body>
   <?php include 'templates/header.php'; ?>
 
-  <main>
+  <main id="mainIndex">
     <!-- Seção de Apresentação -->
     <section class="hero-text d-flex flex-column justify-content-end align-items-center text-center">
       <div>

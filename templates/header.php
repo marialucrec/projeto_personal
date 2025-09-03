@@ -7,16 +7,16 @@
     <!-- Coluna central: imagem + nome -->
     <div class="d-flex align-items-center mx-auto">
       <img src="imagens/logo.png" alt="Logo" style="height: 40px;">
-      <p class="espacamento-letras mb-0 fs-1 text-dark fw-bold">
+      <p class="mb-0 fs-1 text-dark fw-bold">
         TAU<span class="header_cor">RUS</span>
       </p>
     </div>
 
     <!-- Coluna direita: botão ou ícone -->
     <div style="width: 100px;" class="text-end">
-      <a class="nav-link text-dark d-flex align-items-center entrar-hover ms-3" href="#">
-        <span>Entrar</span>
-        <i class="bi bi-person-fill ms-1 fs-5 icon-hover"></i>
+      <a class="nav-link text-dark d-flex align-items-center entrar-hover ms-4" href="#">
+        <span class="fs-5">Entrar</span>
+        <i class="bi bi-person-fill ms-6 fs-5 icon-hover"></i>
       </a>
     </div>
 

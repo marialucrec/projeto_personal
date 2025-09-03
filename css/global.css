@@ -9,6 +9,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: var(--font-principal);
+  letter-spacing: 0.1em;
 }
 
 :root {
