@@ -2,9 +2,8 @@
 
 /* Index */
 .hero-text {
-  min-height: calc(100vh - 70px); /* Altura total menos o header */
-  margin-top: 70px; 
-  background: url('../imagens/img_index1.png') no-repeat center center; /* Imagem de fundo */
+  min-height: 100vh;
+  background: url('../imagens/img_index1.png') no-repeat top center;
   background-size: cover;
 }
 
@@ -34,11 +33,9 @@
 
 /* Seção de Serviços */
 .servicos .card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .servicos .card:hover {
-transform: scale(1.07);
-box-shadow: 5px 4px 12px rgba(0, 0, 0, 0.658);
-
+transform: scale(1.04);
 }
